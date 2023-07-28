@@ -1,0 +1,94 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1.5%;
+    margin: auto;
+    text-align: justify;
+}
+
+h1{
+
+    position: fixed;
+    width: 100%;
+    height: auto;
+    margin: auto;
+
+}
+
+img{
+    width: 20%;
+    height: 25%;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+}
+
+#wrapper{
+    position: relative;
+    margin: auto;
+}
+
+  #wrapper1 {
+    position: relative;
+  }
+
+  .head1{
+    margin-left: 200px;
+  }
+
+  .side1 {
+    overflow: auto;
+    position: absolute;
+    left: 0px;
+    width: 200px;
+  }
+  
+  .art1 .art2{
+    overflow: auto;
+    margin-left: 200px;
+  }
+
+  .foot1 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: white;
+    width: 100%;
+  }
+
+  .nav2{
+    float: left;
+    width: 200px;
+  }
+  .sec1-2 .sec2-2 {
+    margin-left: 200px;
+  }
+
+  .art1-2 .art2-2 {
+    margin-left: 200px;
+  }
+
+  .side2-2{
+    margin-left: 200px;
+  }
+
+
+ .nav4 {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+  }
+  .bod4 {
+    display: inline-block;
+    vertical-align: top;
+    width: 75%;
+  }
+  
+  div img-box5{
+    display: inline-block;
+    margin: 1em;
+  }
+
+
